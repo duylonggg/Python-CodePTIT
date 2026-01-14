@@ -1,19 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eaa19ec-8de9-4e49-8f81-5c0e4c4b7ab6" name="Changes" comment="" />
+    <list default="true" id="0eaa19ec-8de9-4e49-8f81-5c0e4c4b7ab6" name="Changes" comment="Python">
+      <change afterPath="$PROJECT_DIR$/ICPC0101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY01076.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CodePTIT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodePTIT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY01030.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY01030.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;duylonggg&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/duylonggg/Python-CodePTIT.git&quot;,
+    &quot;accountId&quot;: &quot;da9b79fb-7cf5-4c68-b40a-707aea709d77&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;duylonggg&quot;,
+    &quot;repository&quot;: &quot;Python-CodePTIT&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="38Bu11QgzzHYp6fWaz6p7QFKDNL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,14 +94,72 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.PY01002.executor": "Run",
+    "Python.PY01003.executor": "Run",
+    "Python.PY01004.executor": "Run",
+    "Python.PY01016.executor": "Run",
+    "Python.PY01017.executor": "Run",
+    "Python.PY01018.executor": "Run",
+    "Python.PY01019.executor": "Run",
+    "Python.PY01020.executor": "Run",
+    "Python.PY01024.executor": "Run",
+    "Python.PY01028.executor": "Run",
+    "Python.PY01029.executor": "Run",
+    "Python.PY01030.executor": "Run",
+    "Python.PY01036.executor": "Run",
+    "Python.PY01038.executor": "Run",
+    "Python.PY01042.executor": "Run",
+    "Python.PY01043.executor": "Run",
+    "Python.PY01049.executor": "Run",
+    "Python.PY01050.executor": "Run",
+    "Python.PY01051.executor": "Run",
+    "Python.PY01057.executor": "Run",
+    "Python.PY01058.executor": "Run",
+    "Python.PY01074.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="PY01002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodePTIT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY01002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PY01002" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,11 +175,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768285068834</updated>
-      <workItem from="1768285070108" duration="12000" />
+      <workItem from="1768285070108" duration="13414000" />
+      <workItem from="1768393363399" duration="9734000" />
     </task>
+    <task id="LOCAL-00001" summary="Python">
+      <option name="closed" value="true" />
+      <created>1768285619969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768285619969</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python">
+      <option name="closed" value="true" />
+      <created>1768316025237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768316025237</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01030.coverage" NAME="PY01030 Coverage Results" MODIFIED="1768315757616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01036.coverage" NAME="PY01036 Coverage Results" MODIFIED="1768393754899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01043.coverage" NAME="PY01043 Coverage Results" MODIFIED="1768400347057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01058.coverage" NAME="PY01058 Coverage Results" MODIFIED="1768404106978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01017.coverage" NAME="PY01017 Coverage Results" MODIFIED="1768302775503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01049.coverage" NAME="PY01049 Coverage Results" MODIFIED="1768401045721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01004.coverage" NAME="PY01004 Coverage Results" MODIFIED="1768297701532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01050.coverage" NAME="PY01050 Coverage Results" MODIFIED="1768401743856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01016.coverage" NAME="PY01016 Coverage Results" MODIFIED="1768302430440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01029.coverage" NAME="PY01029 Coverage Results" MODIFIED="1768315413828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01003.coverage" NAME="PY01003 Coverage Results" MODIFIED="1768297252100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01028.coverage" NAME="PY01028 Coverage Results" MODIFIED="1768315264941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01057.coverage" NAME="PY01057 Coverage Results" MODIFIED="1768403751432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01051.coverage" NAME="PY01051 Coverage Results" MODIFIED="1768401876407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01038.coverage" NAME="PY01038 Coverage Results" MODIFIED="1768399213913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01002.coverage" NAME="PY01002 Coverage Results" MODIFIED="1768393748953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01019.coverage" NAME="PY01019 Coverage Results" MODIFIED="1768304683242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01042.coverage" NAME="PY01042 Coverage Results" MODIFIED="1768399837330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01024.coverage" NAME="PY01024 Coverage Results" MODIFIED="1768314987366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01018.coverage" NAME="PY01018 Coverage Results" MODIFIED="1768303190348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01020.coverage" NAME="PY01020 Coverage Results" MODIFIED="1768309950030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodePTIT$PY01074.coverage" NAME="PY01074 Coverage Results" MODIFIED="1768407408968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
